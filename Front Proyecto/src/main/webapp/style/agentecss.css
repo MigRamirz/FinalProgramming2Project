@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.formulario-agente {
+	padding: 60px 0;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	overflow: hidden;
+	justify-content: space-evenly;
+	display: flex;
+	flex-direction: column;
+}
+
+table {
+	padding: 20px
+}

@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+header .textos-header {
+	display: flex;
+	height: 430px;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+.textos-header h1 {
+	font-size: 100px;
+	color: rgb(0, 0, 0);
+}
+
+.textos-header h2 {
+	font-size: 25px;
+	font-weight: 300;
+	color: rgb(0, 0, 0);
+}
